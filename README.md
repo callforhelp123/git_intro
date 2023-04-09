@@ -1,1 +1,2 @@
-"Jared Chang" 
+Jared Chang
+chanjare@oregonstate.edu
